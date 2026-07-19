@@ -16,7 +16,7 @@ smoother deformation.
 2. **Save a backup** of your .blend file (this is mandatory, this can be anywhere).
 
 4. **Run the converter.**
-   Open `Convert_UE5_to_UE4.py.py`, check `OUTPUT_PATH` at the top, Run Script.
+   Open `Convert_UE5_to_UE4.py`, check `OUTPUT_PATH` at the top, Run Script.
    It will:
    - merge every non-standard bone's skin weight into its nearest UE4-standard
      parent bone,
