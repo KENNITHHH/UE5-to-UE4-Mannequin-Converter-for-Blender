@@ -8,7 +8,7 @@ smoother deformation.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Requirements
-- Blender 3.x or 4.x (free)
+- Blender 5 (might work with older, did not test)
 - Your UE5 mannequin as an FBX (export it from your UE5 project)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
