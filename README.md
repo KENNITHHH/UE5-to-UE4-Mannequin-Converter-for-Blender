@@ -28,6 +28,7 @@ smoother deformation.
    project's existing `SK_Mannequin` asset (so it shares the skeleton with
    all your other UE4 content), or leave it blank to create a fresh
    UE4-compatible skeleton asset.
+   
    **For Pavlov VR users : "Content\MovementAnimsetPro\UE4_Mannequin\Mesh\UE4_Mannequin_Skeleton"**
 
 ## Limitations, honestly
