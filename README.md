@@ -33,10 +33,6 @@ smoother deformation.
 
 ## Limitations, honestly
 
-- This rebuilds the skeleton/skinning, not animations. Existing UE5 (Manny)
-  animations won't automatically play — you'd retarget them separately once
-  the mesh is on a UE4-shaped skeleton (UE4's Retarget Rig / IK Retargeter
-  workflow, targeting bones that now match 1:1).
 - The `KEEP_BONES` list here matches the long-standing, well documented UE4
   `SK_Mannequin` bone set. If your specific UE5 export uses different naming
   for some core bone, the diagnostic script in step 2 will catch it — fix
