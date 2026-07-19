@@ -51,3 +51,4 @@ smoother deformation.
 ## Appreciation
 
 [If you appreciate this script and you would like to buy me a coffee ☕](https://paypal.me/KENNITHHH)
+[![PayPal](https://shields.io)](https://paypal.me/KENNITHHH)
