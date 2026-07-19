@@ -20,14 +20,15 @@ smoother deformation.
 2. **Save a backup** of your .blend file (this is mandatory, this can be anywhere).
 
 4. **Run the converter.**
-   Open `Convert_UE5_to_UE4.py`, check `OUTPUT_PATH` at the top, Run Script.
+   Scripting -> Open -> `Convert_UE5_to_UE4.py`
+   Ccheck `OUTPUT_PATH` at the top if needed, if not relative to the .blend file, Run Script.
    It will:
    - merge every non-standard bone's skin weight into its nearest UE4-standard
      parent bone,
    - delete those non-standard bones,
    - export `UE4_compatible_mannequin.fbx` next to your .blend file.
 
-5. **Import into UE4.**
+6. **Import into UE4.**
    Import the exported FBX. On the import dialog, set **Skeleton** to your
    project's existing `SK_Mannequin` asset (so it shares the skeleton with
    all your other UE4 content), or leave it blank to create a fresh
