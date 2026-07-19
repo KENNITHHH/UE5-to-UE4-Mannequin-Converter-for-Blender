@@ -4,10 +4,12 @@ UE5's mannequin isn't a renamed UE4 mannequin — it's built on a bigger
 skeleton (~89 bones vs UE4's ~68) with extra corrective/twist bones for
 smoother deformation.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Requirements
 - Blender 3.x or 4.x (free)
 - Your UE5 mannequin as an FBX (export it from your UE5 project)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Steps
 
 1. **Import the source mesh.**
@@ -31,6 +33,7 @@ smoother deformation.
    
    **For Pavlov VR users : "Content\MovementAnimsetPro\UE4_Mannequin\Mesh\UE4_Mannequin_Skeleton"**
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Limitations, honestly
 
 - The `KEEP_BONES` list here matches the long-standing, well documented UE4
