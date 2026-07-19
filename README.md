@@ -1,5 +1,5 @@
 ## Get it on Gumroad instead !
-![https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender](https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender)
+[https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender](https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender)
 
 ![ue5toue4](https://github.com/user-attachments/assets/d7b4d971-662d-494d-9c72-8be4ee05a99b)
 # UE5 Mannequin → UE4 Skeleton Converter (Blender scripts)
@@ -62,4 +62,4 @@ smoother deformation.
 or
 
 
-![Get it on Gumroad instead !](https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender)
+[Get it on Gumroad instead !](https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender)
