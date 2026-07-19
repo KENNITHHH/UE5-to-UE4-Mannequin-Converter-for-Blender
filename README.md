@@ -50,5 +50,4 @@ smoother deformation.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Appreciation
 
-[If you appreciate this script and you would like to buy me a coffee ☕](https://paypal.me/KENNITHHH)
-[![PayPal](https://shields.io)](https://paypal.me/KENNITHHH)
+[If you appreciate this script and you would like to buy me a coffee☕ PAYPAL.ME](https://paypal.me/KENNITHHH)
