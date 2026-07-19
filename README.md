@@ -20,6 +20,7 @@ smoother deformation.
 2. **Save a backup** of your .blend file (this is mandatory, this can be anywhere).
 
 4. **Run the converter.**
+
    Scripting -> Open -> `Convert_UE5_to_UE4.py`
    Ccheck `OUTPUT_PATH` at the top if needed, if not relative to the .blend file, Run Script.
    It will:
