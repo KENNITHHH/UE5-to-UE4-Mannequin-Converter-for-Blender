@@ -1,6 +1,7 @@
 ![ue5toue4](https://github.com/user-attachments/assets/d7b4d971-662d-494d-9c72-8be4ee05a99b)
 # UE5 Mannequin → UE4 Skeleton Converter (Blender scripts)
 
+A Blender script that rebuilds a UE5 mannequin's skeleton to match UE4's standard bone hierarchy — removing UE5's extra corrective/twist bones and merging their skin weight back into the parent bones — so the mesh imports and skins correctly against UE4's SK_Mannequin.
 UE5's mannequin isn't a renamed UE4 mannequin — it's built on a bigger
 skeleton (~89 bones vs UE4's ~68) with extra corrective/twist bones for
 smoother deformation.
