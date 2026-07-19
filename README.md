@@ -46,3 +46,8 @@ smoother deformation.
   (breast/cloth correctives, if present, are the most likely to need a
   manual touch-up).
 - This isn't PERFECT but it is usable.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## Appreciation
+
+[If you appreciate this script and you would like to buy me a coffee ☕](https://paypal.me/KENNITHHH)
