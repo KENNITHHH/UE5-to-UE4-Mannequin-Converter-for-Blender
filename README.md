@@ -54,12 +54,4 @@ smoother deformation.
   manual touch-up).
 - This isn't PERFECT but it is usable.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Appreciation
 
-[If you appreciate this script and you would like to buy me a coffee☕ PAYPAL.ME](https://paypal.me/KENNITHHH)
-
-or
-
-
-[Get it on Gumroad instead !](https://kennithh.gumroad.com/l/UE5-to-UE4-Mannequin-Converter-for-Blender)
